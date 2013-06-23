@@ -16,7 +16,7 @@
     + Vegan scramble
 
 * Silver star ([map](http://maps.google.com/maps?q=Silver+Star+Restaurant,+2nd+Avenue,+New+York,+NY,+United+States&hl=en&sll=40.764207,-73.961723&sspn=0.028799,0.065961&oq=silver+star&hq=Silver+Star+Restaurant,&hnear=2nd+Ave,+New+York&t=m&z=17))
-    + Very noisy
+    + Very noisy and live lobsters, stay away.
 
 ### Dinner
 
