@@ -1,0 +1,20 @@
+* Hamburg, Germany, 2014
+** Eat
+** Breakfast
+    - [[http://www.cafe-miller.de/][Miller]] ([[http://osm.org/go/0HoGaUecG?m=&node=575175283][map]])
+      good
+    - Junge die Bäckerie
+      ok
+** Dinner
+    - [[http://www.ohari.de/][Ohari]] ([[http://www.openstreetmap.org/?mlat=53.56082&mlon=10.03801#map=19/53.56082/10.03801][map]])
+      good
+    - [[http://deananddavid.de/][Dean and David]] ([[http://osm.org/go/0HoGy8Ego?m=&way=43292327][map]])
+      ok
+    - [[http://www.restaurant-leaf.de/][Leaf]] ([[http://osm.org/go/0HoE6wtxf?m=&node=351521856][map]])
+      good
+** Other
+    - [[http://www.cafe-koppel.de/][Cafe Koppel]] ([[http://osm.org/go/0HoG_ICQY?m=&node=2089691179][map]])
+      ok
+** Accommodation
+    - Best Western plus Hotel St Raphael ([[http://osm.org/go/0HoG7iifM?m=&way=62193358][map]])
+      good
