@@ -1,4 +1,4 @@
-# San Diego
+# San Diego, 2012-2013
 
 ## Eat
 
