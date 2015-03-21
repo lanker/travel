@@ -1,0 +1,13 @@
+* Düsseldorf, 2014
+
+** Accommodation
+  - [[http://www.radissonblu.com/scandinaviahotel-duesseldorf/][Radisson Blu Scandinavia Hotel]] ([[http://osm.org/go/0GD2BGKA4?node=253578358][map]])
+    good
+
+** Eat
+  - [[http://www.restaurant-mayur.de/][Mayur]] ([[http://osm.org/go/0GDzQ063H?node=1570454295][map]])
+    ok
+  - [[http://sattgruen.de/][Sattgrün]] ([[http://osm.org/go/0GDz0GCg2?node=981232914][map]])
+    good
+  - [[http://www.convida.de/][Convida]] ([[http://osm.org/go/0GDzTMFhK?way=332722513][map]])
+    good
